@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plucyvrz&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plucyvrz&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plucyvrz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **plucyvrz/plucyvrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
