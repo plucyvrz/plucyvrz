@@ -14,9 +14,7 @@
             <img src="https://komarev.com/ghpvc/?username=plucyvrz&label=Profile%20views&color=0e75b6&style=flat" alt="plucyvrz" />
   </div>                                                                                                             
 
-<samp>
- 🖖 Python Lover | 🔐 Cyber Security | ☕️ Coffe Lover | 🌵 Web Developer
- </samp>
+
  <br>
  <samp>
  <b>Have Fun!!!</b>
@@ -24,10 +22,7 @@
  <b>My Telegram : https://t.me/putraalvians</b>
  </samp>
 </div>
-
-<div align="center">
- <samp><h1> My Tech Stack </h1></samp>
-</div>
+ <br> <br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
@@ -39,11 +34,6 @@
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
-</div>
-
-
-<div align="center">
- <samp><h1>Putra Alvians's Github stats</h1></samp> 
 </div>
 
 <div align="center">
